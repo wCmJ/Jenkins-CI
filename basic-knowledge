@@ -1,1 +1,8 @@
 Jenkins is a leading open source CI server. CI: continuous integration
+Maven:
+    Source Code Management: Git/Subversion
+    Build Triggers: Poll SCM Schedule: H/3 * * * *
+    
+    
+    
+    
